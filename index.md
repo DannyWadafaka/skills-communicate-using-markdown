@@ -12,3 +12,9 @@ def holiwi pai:
   for i in c
     print("holi")
 ```
+
+#### Adding a task list :3 
+
+- [ ] Wash dogs
+- [ ] Buy bread
+- [x] do courses for ingesoft
